@@ -16,6 +16,8 @@ For album covers, there should be an image file next to the mp3s, prioritizing n
 
 To keep it simple (like real CDs), the preferred structure is one CD per folder, with its png/jpg cover art. 
 
+An Android / Android Auto client can be found in this project (with its .APK file): <a href="https://github.com/azraelpc/azify-apk" target="_blank">HERE</a>
+
 ## Main Features
 
 - **Spotify Clone Interface:** Elegant dark design with smooth transitions, interactive progress bars, and visual volume control.
