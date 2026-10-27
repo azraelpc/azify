@@ -1,8 +1,15 @@
-# AZify Player 1.0 🎵
+# AZify Server and Web Player 1.0 🎵
 
 <img height="50" alt="{939BC6ED-591F-452B-8653-628985BE4F13}" src="https://github.com/user-attachments/assets/7491c8ad-eccd-491d-9e59-1efcbcaf90b4" />
 
-Lightweight and responsive web music player inspired by the classic Spotify interface. Serves by default on port 5155.
+## Summary
+
+Enjoy your music library from your own server, served with a spotify-like interface from any web browser.
+An Android / Android Auto client can be found in this project (with its .APK file): <a href="https://github.com/azraelpc/azify-apk" target="_blank">HERE</a>
+
+## Description
+
+Lightweight and responsive web music player inspired by the classic Spotify interface. Music played in the web player page is served by default on port 5155.
 
 Supports typical formats (mp3, ogg, flac, etc). The project includes a dynamic Python backend and a modern, elastic frontend with Tailwind CSS that adapts perfectly to any resolution (including mobile environments and low-resolution computers).
 
@@ -16,7 +23,6 @@ For album covers, there should be an image file next to the mp3s, prioritizing n
 
 To keep it simple (like real CDs), the preferred structure is one CD per folder, with its png/jpg cover art. 
 
-An Android / Android Auto client can be found in this project (with its .APK file): <a href="https://github.com/azraelpc/azify-apk" target="_blank">HERE</a>
 
 ## Main Features
 
