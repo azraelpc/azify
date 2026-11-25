@@ -7,6 +7,8 @@
 Enjoy your music library from your own server, served with a spotify-like interface from any web browser.
 An Android / Android Auto client can be found in this project (with its .APK file): <a href="https://github.com/azraelpc/azify-apk" target="_blank">HERE</a>
 
+Demo here: <a href="https://fifa.azraelpc.com/" target="_blank">https://fifa.azraelpc.com/</a>
+
 ## Description
 
 Lightweight and responsive web music player inspired by the classic Spotify interface. Music played in the web player page is served by default on port 5155.
